@@ -1,6 +1,36 @@
 .header {
-    margin: auto;
-    text-align: center;
     background-color: #666;
     height: 20%;
+}
+.header img {
+    margin-top: 20px;
+    height: 70%; 
+}
+
+.container {
+    width: 95%;
+    text-align: center;
+    font-family: 'Calibri';
+    height: 700px;
+
+}
+
+.footer {
+    background-color: #666;
+    height: 20%;
+}
+
+.section {
+    height: 60%;
+    background-color: #1f1f1f;
+}
+
+.details {
+    width: 20%;
+    height: 100%;
+}
+
+.aside {
+    width: 80%;
+    height: 100%;
 }
